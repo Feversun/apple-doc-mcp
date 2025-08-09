@@ -1,6 +1,6 @@
-# Contributing to Apple Doc MCP
+# Contributing to Rive Doc MCP
 
-Thank you for considering contributing to Apple Doc MCP! 🍎
+Thank you for considering contributing to Rive Doc MCP! 🎨
 
 ## Quick Start
 
@@ -47,11 +47,11 @@ Thank you for considering contributing to Apple Doc MCP! 🍎
 - **TypeScript**: Use strict TypeScript types
 - **Error Handling**: Always handle errors gracefully
 - **Comments**: Add clear comments for complex logic
-- **Testing**: Test your changes with real Apple documentation APIs
+- **Testing**: Test your changes with real Rive documentation pages
 
 ### What We're Looking For
 
-- 🐛 **Bug fixes** - Especially edge cases with Apple's API
+- 🐛 **Bug fixes** - Especially edge cases with Rive's site
 - ✨ **New features** - Additional search capabilities, filtering options
 - 📚 **Documentation** - Improvements to README, examples, setup guides
 - 🚀 **Performance** - Caching improvements, faster search algorithms
