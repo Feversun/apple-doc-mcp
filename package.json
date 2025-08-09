@@ -1,20 +1,16 @@
 {
-  "name": "apple-doc-mcp",
-  "version": "1.0.1",
-  "description": "MCP server providing seamless access to Apple Developer Documentation with smart search and wildcard support",
+  "name": "rive-doc-mcp",
+  "version": "1.0.0",
+  "description": "MCP server providing access to Rive documentation with search and update tools",
   "main": "dist/index.js",
   "type": "module",
   "bin": {
-    "apple-doc-mcp": "dist/index.js"
+    "rive-doc-mcp": "dist/index.js"
   },
   "keywords": [
     "mcp",
-    "apple",
-    "documentation",
-    "ios",
-    "macos",
-    "swiftui",
-    "uikit"
+    "rive",
+    "documentation"
   ],
   "author": "MightyDillah",
   "repository": {
